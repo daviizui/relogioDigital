@@ -77,7 +77,8 @@ body{
     }
        
     .container-relogio{
-        width: 90%;       
+        width: 90%; 
+        gap: 8px
     }
 
     .container-relogio div{
